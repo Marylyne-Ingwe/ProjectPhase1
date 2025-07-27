@@ -193,3 +193,6 @@ Aviation_Data.isnull().sum().sort_values(ascending=False)
 ```
 Aviation_Data.to_csv("Cleaned_Aviation_Data.csv", index=False)
 ```
+Tableau Visualization basesd on three sheets: Model Aircrft Dan#mage vs Injury severity, make/model vs Investigation type and KPI Model/Make
+<img width="1824" height="743" alt="tableau Dashboard - MI" src="https://github.com/user-attachments/assets/2c1085f4-1a32-4dd6-9516-e1ec3d7f1169" />
+
